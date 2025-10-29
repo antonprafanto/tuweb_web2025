@@ -350,8 +350,9 @@ Setelah menyelesaikan semua materi, mahasiswa diharapkan mampu:
 ## 📞 **Support dan Bantuan**
 
 ### **Dosen Pengampu**
-- **Nama**: Anton Prafanto, S.Kom., M.Kom.
-- **Email**: [email-dosen@ut.ac.id]
+- **Nama**: Anton Prafanto, S.Kom., M.T.
+- **Email**: antonprafanto@unmul.ac.id
+- **Kontak**: 0811553393
 - **Jam Konsultasi**: [sesuai jadwal]
 
 ### **Forum Diskusi**
